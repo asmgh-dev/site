@@ -6,9 +6,9 @@ title_separator: "-"
 subtitle: "By G.H.A.L" # site tagline that appears below site title in masthead
 name: "Thesmos Prime"
 description: "One Nation fron G.H.A.L-Nations Club."
-url: "https://luxnation.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://lucathar.site" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/"
-repository: "luxnation/luxnation.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: "asmgh-dev/asmgh-dev.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo: "assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: "Luxnation" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: # true, false (default)
